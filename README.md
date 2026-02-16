@@ -1,4 +1,4 @@
-# Analyze-a-Phishing-Email-Sample.
+# Analyze-a-Phishing-Email-Sample
 
 analyzes a phishing email sample obtained from PhishTank. The purpose of this task is to identify phishing indicators and understand how attackers use social engineering techniques to trick users.
 
