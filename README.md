@@ -11,6 +11,8 @@ analyzes a phishing email sample obtained from PhishTank. The purpose of this ta
 - **Suspicious Link:**  
   http://www.firstgenericbank.com.account-updateinfo.com
 
+![Phishing Mail](screenshots/sample-phishing-mail.png)
+
 ----
 
 ### Identified Phishing Indicators
