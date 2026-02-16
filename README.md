@@ -15,7 +15,7 @@ analyzes a phishing email sample obtained from PhishTank. The purpose of this ta
 
 ### Identified Phishing Indicators
 ## 1. Suspicious URL 
-http://www.firstgenericbank.com.account-updateinfo.com
+http://www.firstgenericbank.com.account-updateinfo.com  
 At first glance, it appears to belong to First Generic Bank. However, the actual domain is: account-updateinfo.com
 The attacker placed the real bank name before the malicious domain to trick users. This is a common phishing technique called domain spoofing.
 
