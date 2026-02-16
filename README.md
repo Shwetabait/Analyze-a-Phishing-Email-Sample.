@@ -23,7 +23,7 @@ The email states that the account will be suspended within 48 hours if action is
 This is a common social engineering tactic.
 
 ## 3. Generic Greeting
-The email begins with “Dear First Generic Bank user” instead of using the customer’s name.
+The email begins with “Dear First Generic Bank user” rather than the customer’s name.
 
 ## 4. Request for Sensitive Information
 The email asks users to confirm or update their account information through a link.
