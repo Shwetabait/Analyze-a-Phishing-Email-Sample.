@@ -5,10 +5,11 @@ analyzes a phishing email sample obtained from PhishTank. The purpose of this ta
 ---- 
 
 ### Email Details
-Sender: accounts@firstgenericbank.com
-Subject: Please update your account information
-Date: Sep 12, 2006
-Suspicious Link: http://www.firstgenericbank.com.account-updateinfo.com
+- **Sender:** accounts@firstgenericbank.com  
+- **Subject:** Please update your account information  
+- **Date:** Sep 12, 2006  
+- **Suspicious Link:**  
+  http://www.firstgenericbank.com.account-updateinfo.com
 
 ----
 
