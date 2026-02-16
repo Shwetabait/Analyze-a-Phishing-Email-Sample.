@@ -20,14 +20,14 @@ At first glance, it appears to belong to First Generic Bank. However, the actual
 The attacker placed the real bank name before the malicious domain to trick users. This is a common phishing technique called domain spoofing.
 
 ## 2. Urgency and Threatening Language
-The email states that the account will be suspended within 48 hours if action is not taken. This creates fear and pressure.
+The email states that the account will be suspended within 48 hours if action is not taken. This creates fear and pressure.  
 This is a common social engineering tactic.
 
 ## 3. Generic Greeting
 The email begins with “Dear First Generic Bank user” rather than the customer’s name.
 
 ## 4. Request for Sensitive Information
-The email asks users to confirm or update their account information through a link.
+The email asks users to confirm or update their account information through a link.  
 Legitimate organizations do not request sensitive information through email links.
 
 ## 5. Social Engineering Techniques
